@@ -65,6 +65,12 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
+## Experience
+
+### **GIST Hydro AI Lab**
+**Research Intern** | *2025.12 - Present*
+- Focusing on AI-based hydrological modeling and agricultural satellite image analysis.
+- Developing deep learning models for multi-spectral sensor data.
 </div>
 
 ---
