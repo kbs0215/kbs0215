@@ -1,10 +1,7 @@
 <div align="center">
 
 # Beomsik Kim
-
 **Spatial Information Engineering | Deep Learning | Remote Sensing**
-
-GIST (Gwangju Institute of Science and Technology) · B.S. in Spatial Information Engineering · Minor in Big Data
 
 [![Email](https://img.shields.io/badge/Email-kbs0215__@naver.com-03C75A?style=flat-square&logo=naver&logoColor=white)](mailto:kbs0215_@naver.com)
 [![Kaggle](https://img.shields.io/badge/Kaggle-BEOMSIK1724-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/BEOMSIK1724)
@@ -13,13 +10,7 @@ GIST (Gwangju Institute of Science and Technology) · B.S. in Spatial Informatio
 </div>
 
 ---
-
-## About Me
-
-- B.S. in Spatial Information Engineering (Minor in Big Data), GIST
-- Research Intern at **HydroAI Lab**, Dept. of Environment and Energy Engineering, GIST (Dec 2025 ~)
 - Research focus: satellite image analysis (Sentinel-1 SAR / Sentinel-2), deep learning for remote sensing, and GIS-based spatial analysis
-
 ---
 
 ## Awards
@@ -77,15 +68,6 @@ GIST (Gwangju Institute of Science and Technology) · B.S. in Spatial Informatio
 </div>
 
 ---
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=kbs0215&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kbs0215&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-
-</div>
 
 <div align="center">
 
