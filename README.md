@@ -67,7 +67,11 @@
 
 </div>
 
-**Experience**
+---
+
+## **Experience**
+
+<div align="center">
 
 **GIST Hydro AI Lab**
 **Research Intern** | *2025.12 - Present*
