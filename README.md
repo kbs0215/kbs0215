@@ -17,7 +17,7 @@
 
 | Competition | Award | Host | Year |
 |-------------|-------|------|------|
-| Capstone Design Contest | Encouragement Award | University of Seoul | 2025 |
+| Capstone Design Contest | Encouragement Award | 한국측량학회 | 2025 |
 
 ---
 
